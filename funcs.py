@@ -1,2 +1,4 @@
 def add_two_num(a, b):
-    return a + b
+    fold = a + b
+    subtract = a - b
+    return fold, subtract
